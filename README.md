@@ -11,7 +11,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/underxploit/Autov
+$ git clone https://github.com/elkays/autovisit
 
 $ cd Autov
 
